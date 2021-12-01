@@ -3,4 +3,4 @@ voila-gridstack
 tornado==5.1.1 
 simplejson
 grpcio==1.30.0
-jupyter-notebook
+notebook
