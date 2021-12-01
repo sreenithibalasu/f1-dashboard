@@ -16,4 +16,4 @@ Clone the repository and make sure to change your working directory to the clone
 Click the icon with 9 grids and move the markdown documents around.
 
 3. To get the dashboard up and running run the following command
-`voila --template=gridstack voila_dashboard_prototype.ipynb``
+`voila --template=gridstack voila_dashboard_prototype.ipynb`
