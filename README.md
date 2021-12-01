@@ -1,4 +1,4 @@
-# is445-final DRAFT
+# IS445 FINAL PROJECT **DRAFT**
 IS445 final project
 
 Clone the repository and make sure to change your working directory to the cloned repository before starting your ipynb and before running the voila commands.
