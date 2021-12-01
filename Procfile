@@ -1,1 +1,1 @@
-web: voila --port=$PORT --no-browser voila_dashboard_prototype.ipynb
+web: voila --port=$PORT --no-browser --template=gridstack --enable_nbextensions=True voila_dashboard_prototype.ipynb
