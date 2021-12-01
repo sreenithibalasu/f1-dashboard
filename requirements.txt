@@ -4,3 +4,8 @@ tornado==5.1.1
 simplejson
 grpcio==1.30.0
 notebook
+numpy
+pandas
+datetime
+matplotlib
+ipywidgets
