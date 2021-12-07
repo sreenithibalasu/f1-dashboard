@@ -9,3 +9,4 @@ pandas
 datetime
 matplotlib
 ipywidgets
+folium
